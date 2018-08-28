@@ -56,7 +56,6 @@
   <node concept="1TIwiD" id="7uOMgjmdqtZ">
     <property role="EcuMT" value="8625740208932235135" />
     <property role="TrG5h" value="Function" />
-    <property role="19KtqR" value="true" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="PrWs8" id="7uOMgjmdqu0" role="PzmwI">
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
@@ -116,6 +115,19 @@
     <node concept="M4N5e" id="7uOMgjmdqus" role="M5hS2">
       <property role="1uS6qo" value="adventure" />
       <property role="1uS6qv" value="ADVENTURE" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7uOMgjmeh89">
+    <property role="EcuMT" value="8625740208932459017" />
+    <property role="TrG5h" value="MainStructure" />
+    <property role="19KtqR" value="true" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyj" id="7uOMgjmeh8a" role="1TKVEi">
+      <property role="IQ2ns" value="8625740208932459018" />
+      <property role="20lmBu" value="aggregation" />
+      <property role="20kJfa" value="functions" />
+      <property role="20lbJX" value="0..n" />
+      <ref role="20lvS9" node="7uOMgjmdqtZ" resolve="Function" />
     </node>
   </node>
 </model>
