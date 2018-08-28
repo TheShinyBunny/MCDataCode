@@ -4,8 +4,9 @@
     <modelRoot contentPath="${module}" type="default">
       <sourceRoot location="models" />
     </modelRoot>
-    <modelRoot contentPath="C:/Users/yaniv/Desktop/MCFunctionAPI/out/artifacts/MCFunctionAPI/MCFunctionAPI.jar!/" type="java_classes">
+    <modelRoot contentPath="${module}/libs" type="java_classes">
       <sourceRoot location="." />
+      <sourceRoot location="MCFunctionAPI.jar" />
     </modelRoot>
   </models>
   <accessoryModels />
@@ -52,9 +53,6 @@
       <mapping-priorities />
     </generator>
   </generators>
-  <stubModelEntries>
-    <stubModelEntry path="C:/Users/yaniv/Desktop/MCFunctionAPI/out/artifacts/MCFunctionAPI/MCFunctionAPI.jar" />
-  </stubModelEntries>
   <sourcePath />
   <dependencies>
     <dependency reexport="false">f3061a53-9226-4cc5-a443-f952ceaf5816(jetbrains.mps.baseLanguage)</dependency>
