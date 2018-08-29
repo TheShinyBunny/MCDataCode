@@ -26,6 +26,7 @@
         <child id="1071489727083" name="linkDeclaration" index="1TKVEi" />
         <child id="1071489727084" name="propertyDeclaration" index="1TKVEl" />
       </concept>
+      <concept id="1169125989551" name="jetbrains.mps.lang.structure.structure.InterfaceConceptDeclaration" flags="ig" index="PlHQZ" />
       <concept id="1169127622168" name="jetbrains.mps.lang.structure.structure.InterfaceConceptReference" flags="ig" index="PrWs8">
         <reference id="1169127628841" name="intfc" index="PrY4T" />
       </concept>
@@ -65,6 +66,9 @@
       <property role="20kJfa" value="cmds" />
       <property role="20lbJX" value="0..n" />
       <ref role="20lvS9" node="7uOMgjmdqu2" resolve="Command" />
+    </node>
+    <node concept="PrWs8" id="7LJiHYTYwbb" role="PzmwI">
+      <ref role="PrY4T" node="7LJiHYTYwb6" resolve="NamespaceComponent" />
     </node>
   </node>
   <node concept="1TIwiD" id="7uOMgjmdqu2">
@@ -120,15 +124,47 @@
     <property role="EcuMT" value="8625740208932459017" />
     <property role="TrG5h" value="MainStructure" />
     <property role="19KtqR" value="true" />
-    <property role="34LRSv" value="main" />
+    <property role="34LRSv" value="datapack" />
     <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
     <node concept="1TJgyj" id="7uOMgjmeh8a" role="1TKVEi">
       <property role="IQ2ns" value="8625740208932459018" />
       <property role="20lmBu" value="aggregation" />
-      <property role="20kJfa" value="functions" />
+      <property role="20kJfa" value="components" />
       <property role="20lbJX" value="0..n" />
-      <ref role="20lvS9" node="7uOMgjmdqtZ" resolve="Function" />
+      <ref role="20lvS9" node="7LJiHYTYw9S" resolve="DatapackComponent" />
     </node>
+    <node concept="1TJgyi" id="7LJiHYTYw4s" role="1TKVEl">
+      <property role="IQ2nx" value="8966467707876278556" />
+      <property role="TrG5h" value="name" />
+      <ref role="AX2Wp" to="tpck:fKAOsGN" resolve="string" />
+    </node>
+  </node>
+  <node concept="1TIwiD" id="7LJiHYTYw9m">
+    <property role="EcuMT" value="8966467707876278870" />
+    <property role="TrG5h" value="Namespace" />
+    <property role="34LRSv" value="namespace" />
+    <ref role="1TJDcQ" to="tpck:gw2VY9q" resolve="BaseConcept" />
+    <node concept="1TJgyj" id="7LJiHYTYwbf" role="1TKVEi">
+      <property role="IQ2ns" value="8966467707876278991" />
+      <property role="20lmBu" value="aggregation" />
+      <property role="20kJfa" value="components" />
+      <property role="20lbJX" value="0..n" />
+      <ref role="20lvS9" node="7LJiHYTYwb6" resolve="NamespaceComponent" />
+    </node>
+    <node concept="PrWs8" id="7LJiHYTYwbG" role="PzmwI">
+      <ref role="PrY4T" node="7LJiHYTYw9S" resolve="DatapackComponent" />
+    </node>
+    <node concept="PrWs8" id="7LJiHYTYwbM" role="PzmwI">
+      <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
+    </node>
+  </node>
+  <node concept="PlHQZ" id="7LJiHYTYw9S">
+    <property role="EcuMT" value="8966467707876278904" />
+    <property role="TrG5h" value="DatapackComponent" />
+  </node>
+  <node concept="PlHQZ" id="7LJiHYTYwb6">
+    <property role="EcuMT" value="8966467707876278982" />
+    <property role="TrG5h" value="NamespaceComponent" />
   </node>
 </model>
 

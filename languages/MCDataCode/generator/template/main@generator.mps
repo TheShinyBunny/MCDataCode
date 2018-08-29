@@ -58,6 +58,7 @@
       <concept id="1068431474542" name="jetbrains.mps.baseLanguage.structure.VariableDeclaration" flags="ng" index="33uBYm">
         <child id="1068431790190" name="initializer" index="33vP2m" />
       </concept>
+      <concept id="1068431790191" name="jetbrains.mps.baseLanguage.structure.Expression" flags="nn" index="33vP2n" />
       <concept id="1068498886296" name="jetbrains.mps.baseLanguage.structure.VariableReference" flags="nn" index="37vLTw">
         <reference id="1068581517664" name="variableDeclaration" index="3cqZAo" />
       </concept>
@@ -258,7 +259,15 @@
             </node>
           </node>
         </node>
-        <node concept="3clFbH" id="2_cGgUh46j6" role="3cqZAp" />
+        <node concept="3cpWs8" id="7LJiHYTYG2K" role="3cqZAp">
+          <node concept="3cpWsn" id="7LJiHYTYG2L" role="3cpWs9">
+            <property role="TrG5h" value="name" />
+            <node concept="3uibUv" id="7LJiHYTYG2M" role="1tU5fm">
+              <ref role="3uigEE" to="rg04:~Namespace" resolve="Namespace" />
+            </node>
+            <node concept="33vP2n" id="7LJiHYTYGa3" role="33vP2m" />
+          </node>
+        </node>
       </node>
       <node concept="3Tm1VV" id="7uOMgjmehhw" role="1B3o_S" />
       <node concept="3cqZAl" id="7uOMgjmehhP" role="3clF45" />
@@ -328,7 +337,7 @@
             <node concept="3clFbF" id="2_cGgUh3wsc" role="3cqZAp">
               <node concept="2OqwBi" id="2_cGgUh3ws7" role="3clFbG">
                 <node concept="3Tsc0h" id="2_cGgUh3wsa" role="2OqNvi">
-                  <ref role="3TtcxE" to="t4zr:7uOMgjmeh8a" resolve="functions" />
+                  <ref role="3TtcxE" to="t4zr:7uOMgjmeh8a" resolve="components" />
                 </node>
                 <node concept="30H73N" id="2_cGgUh3wsb" role="2Oq$k0" />
               </node>
