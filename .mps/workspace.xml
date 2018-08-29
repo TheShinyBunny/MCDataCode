@@ -7,8 +7,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2a10f9b-3ff0-41fd-8e03-bd8db3c2846c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/MCDataCode.mpl" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/MCDataCode.mpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/editor/MainStructure_Editor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/editor/MainStructure_EditorBuilder_a.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/editor/EditorAspectDescriptorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/editor/EditorAspectDescriptorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/ConceptPresentationAspectImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/ConceptPresentationAspectImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/LanguageConceptSwitch.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/LanguageConceptSwitch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/StructureAspectDescriptor.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/StructureAspectDescriptor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/classes_gen/MCDataCode/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/classes_gen/main/QueriesGenerated.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/classes_gen/main/QueriesGenerated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/classes_gen/main/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/classes_gen/main/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen.caches/MCDataCode/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen.caches/MCDataCode/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen.caches/main/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen.caches/main/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen.caches/main/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen.caches/main/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen/main/QueriesGenerated.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen/main/QueriesGenerated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen/main/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/source_gen/main/trace.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/languages/MCDataCode/generator/template/main@generator.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/generator/template/main@generator.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/models/editor.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/models/editor.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/models/structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/models/structure.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/sandbox/models/MCDataCode.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/sandbox/models/MCDataCode.sandbox.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/editor/dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/editor/dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/editor/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/editor/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen.caches/MCDataCode/structure/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/editor/EditorAspectDescriptorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/editor/EditorAspectDescriptorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/editor/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/editor/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/ConceptPresentationAspectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/LanguageConceptSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/LanguageConceptSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/StructureAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/StructureAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/MCDataCode/source_gen/MCDataCode/structure/trace.info" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,13 +125,23 @@
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-                <selectionStack />
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="123" />
+                    <property name="caretXRelative" value="40" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name">
+                      <node node_reference="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235145" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
                 <errorMarkers />
                 <transactionalProperties />
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -109,12 +149,12 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node />
+              <node node_ref="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235135" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="mps://node://MCDataCode/MCDataCode.structure/MainStructure">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -122,62 +162,20 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="175" />
-                    <property name="caretXRelative" value="8" />
+                    <property name="caretX" value="67" />
+                    <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="Constant_fgt3_c0">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" />
+                    <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a">
+                      <node node_reference="r:114e130d-2193-409d-b171-77b729d1662b(MCDataCode.editor)/2975948129906194039" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
                 <errorMarkers />
                 <transactionalProperties />
-                <foldable>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461152" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461146" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_msf9u8_b0">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461144" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459774" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459645" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </foldable>
-                <restoreAlways>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461152" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_msf9u8_b0">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461144" />
-                    </cellIdElement>
-                  </collapsedElement>
-                  <collapsedElement isCollapsed="false">
-                    <cellIdElement cellId="Collection_fao2ea_a">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459645" />
-                    </cellIdElement>
-                  </collapsedElement>
-                </restoreAlways>
+                <foldable />
+                <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -185,24 +183,24 @@
                 <restoreAlways />
                 <enabledHints />
               </inspectorMemento>
-              <node node_ref="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459581" />
+              <node node_ref="r:114e130d-2193-409d-b171-77b729d1662b(MCDataCode.editor)/8625740208932459048" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/init">
+      <file pinned="false" current-in-tab="true">
+        <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/main">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
               <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="167" />
-                    <property name="caretXRelative" value="64" />
+                    <property name="caretX" value="119" />
+                    <property name="caretXRelative" value="40" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_gamemode">
-                      <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/8625740208932316870" />
+                    <cellInfo cellId="property_message">
+                      <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -211,7 +209,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -227,15 +225,15 @@
         <entry file="mps://node://MCDataCode#01/main@generator/main">
           <provider selected="true" editor-type-id="MPSFileEditor">
             <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-              <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <memento saveSessionState="false" viewPositionX="0" viewPositionY="360">
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="317" />
+                    <property name="caretX" value="31" />
                     <property name="caretXRelative" value="0" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="templateName">
-                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932260731" />
+                    <cellInfo cellId="Constant_c84kqv_c0">
+                      <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/2975948129906088580" />
                     </cellInfo>
                   </stackElement>
                 </selectionStack>
@@ -250,7 +248,7 @@
                 </foldable>
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -283,7 +281,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -317,7 +315,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -338,10 +336,10 @@
                 <selectionStack>
                   <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                     <property name="hasNonTrivialSelection" value="false" />
-                    <property name="caretX" value="319" />
-                    <property name="caretXRelative" value="24" />
+                    <property name="caretX" value="71" />
+                    <property name="caretXRelative" value="56" />
                     <property name="sideSelectDirection" value="NONE" />
-                    <cellInfo cellId="property_name">
+                    <cellInfo cellId="Constant_ueqr71_c0a">
                       <node node_reference="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235152" />
                     </cellInfo>
                   </stackElement>
@@ -351,7 +349,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -385,7 +383,7 @@
                 <foldable />
                 <restoreAlways />
               </memento>
-              <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+              <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
                 <selectionStack />
                 <errorMarkers />
                 <transactionalProperties />
@@ -503,7 +501,81 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="r:114e130d-2193-409d-b171-77b729d1662b(MCDataCode.editor) in IdeaFile[file://A:/Code/MPS/mcdatacode/languages/MCDataCode/models/editor.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5e2d0034-c754-4833-a8c2-06f62c92f462(MCDataCode)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="MCDataCode#01" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="b17a5723-19fb-4dce-a6a3-6b8483ab96d5" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5e2d0034-c754-4833-a8c2-06f62c92f462(MCDataCode)" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="runtime" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="b17a5723-19fb-4dce-a6a3-6b8483ab96d5" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MCDataCode" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="5e2d0034-c754-4833-a8c2-06f62c92f462(MCDataCode)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -522,40 +594,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox) in IdeaFile[file://A:/Code/MPS/mcdatacode/languages/MCDataCode/sandbox/models/MCDataCode.sandbox.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="7fc3a914-0cab-4164-8b03-eeec65c9701f" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MCDataCode" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="5e2d0034-c754-4833-a8c2-06f62c92f462(MCDataCode)" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="runtime" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -586,62 +624,8 @@
               <option name="myItemId" value="5e2d0034-c754-4833-a8c2-06f62c92f462(MCDataCode)" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="7fc3a914-0cab-4164-8b03-eeec65c9701f" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MCDataCode" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="r:2216ed5a-93a4-4417-9a23-38b31610183b(MCDataCode.runtime) in IdeaFile[file://A:/Code/MPS/mcdatacode/languages/MCDataCode/runtime/models/MCDataCode.runtime.mps]" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b17a5723-19fb-4dce-a6a3-6b8483ab96d5" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="7fc3a914-0cab-4164-8b03-eeec65c9701f" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Project" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="b17a5723-19fb-4dce-a6a3-6b8483ab96d5" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MCDataCode" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Modules Pool" />
+              <option name="myItemId" value="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure) in IdeaFile[file://A:/Code/MPS/mcdatacode/languages/MCDataCode/models/structure.mps]" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -651,7 +635,19 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="5e2d0034-c754-4833-a8c2-06f62c92f462(MCDataCode)" />
+              <option name="myItemId" value="b17a5723-19fb-4dce-a6a3-6b8483ab96d5" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MCDataCode" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox) in IdeaFile[file://A:/Code/MPS/mcdatacode/languages/MCDataCode/sandbox/models/MCDataCode.sandbox.mps]" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="2975948129906205370" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </SELECTED>
@@ -665,8 +661,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25642964" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25642964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -675,7 +672,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Model Checker" order="7" />
+      <window_info anchor="bottom" id="Model Checker" order="7" weight="0.328594" />
       <window_info anchor="bottom" id="Bookmarks" order="8" />
       <window_info anchor="bottom" id="Migration" order="9" />
       <window_info anchor="bottom" id="Menu Trace" order="10" />
@@ -688,11 +685,11 @@
       <window_info anchor="bottom" id="Version Control" order="17" />
       <window_info anchor="bottom" id="Generation Tracer" order="18" />
       <window_info anchor="bottom" id="Cell Explorer" order="19" />
-      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.4989339" weight="0.32910052" />
+      <window_info anchor="bottom" id="Messages" order="20" sideWeight="0.49848714" visible="true" weight="0.328594" />
       <window_info anchor="bottom" id="Typechecker State" order="21" />
       <window_info anchor="bottom" id="Console" order="22" />
       <window_info anchor="bottom" id="RefactoringView" order="23" />
-      <window_info anchor="bottom" id="Inspector" order="24" sideWeight="0.5010661" side_tool="true" weight="0.32910052" />
+      <window_info active="true" anchor="bottom" id="Inspector" order="24" sideWeight="0.5015129" side_tool="true" visible="true" weight="0.328594" />
       <window_info anchor="bottom" id="Dependencies Viewer" order="25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -782,17 +779,39 @@
     <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/&lt;no name&gt;[Function]" />
     <entry file="mps://node://MCDataCode/com.shinybunny.mcfapi@java_stub/FunctionContainer" />
     <entry file="mps://node://MCDataCode/MCDataCode.structure/&lt;no name&gt;[ConceptDeclaration]" />
-    <entry file="mps://node://MCDataCode/MCDataCode.structure/Function">
+    <entry file="mps://node://MCDataCode/com.shinybunny.mcfapi@java_stub/MCFunction">
       <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="23" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="5e2d0034-c754-4833-a8c2-06f62c92f462/java:com.shinybunny.mcfapi(MCDataCode/)/2975948129906077294" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
             <errorMarkers />
             <transactionalProperties />
-            <foldable />
-            <restoreAlways />
+            <foldable>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation">
+                  <node node_reference="5e2d0034-c754-4833-a8c2-06f62c92f462/java:com.shinybunny.mcfapi(MCDataCode/)/~MCFunction" />
+                </cellIdElement>
+              </collapsedElement>
+            </foldable>
+            <restoreAlways>
+              <collapsedElement isCollapsed="false">
+                <cellIdElement cellId="HAAC_refNodeList_annotation">
+                  <node node_reference="5e2d0034-c754-4833-a8c2-06f62c92f462/java:com.shinybunny.mcfapi(MCDataCode/)/~MCFunction" />
+                </cellIdElement>
+              </collapsedElement>
+            </restoreAlways>
           </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="5e2d0034-c754-4833-a8c2-06f62c92f462/java:com.shinybunny.mcfapi(MCDataCode/)/2975948129906077294" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -800,7 +819,6 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node />
         </state>
       </provider>
     </entry>
@@ -808,14 +826,96 @@
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
           <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932459017" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="167" />
-                <property name="caretXRelative" value="64" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_gamemode">
-                  <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/8625740208932316870" />
+                <cellInfo cellId="Constant_ixrx0p_a0">
+                  <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906194045" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -824,7 +924,173 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/2975948129906088594" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ixrx0p_a0">
+                  <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906194045" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906194045" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ixrx0p_a0">
+                  <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906194045" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906194045" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure" />
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState" editorFocused="true">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="15" />
+                <property name="caretXRelative" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ixrx0p_a0">
+                  <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906194045" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906194045" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/MainStructure" />
+    <entry file="mps://node://MCDataCode/MCDataCode.structure/GameMode">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="351" />
+                <property name="caretXRelative" value="72" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_externalValue">
+                  <node node_reference="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235160" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -838,15 +1104,15 @@
     <entry file="mps://node://MCDataCode#01/main@generator/main">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="360">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="317" />
+                <property name="caretX" value="31" />
                 <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="templateName">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932260731" />
+                <cellInfo cellId="Constant_c84kqv_c0">
+                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/2975948129906088580" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
@@ -861,7 +1127,7 @@
             </foldable>
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -892,7 +1158,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -924,7 +1190,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -936,6 +1202,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="mps://node://MCDataCode/MCDataCode.structure/Function">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="123" />
+                <property name="caretXRelative" value="40" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name">
+                  <node node_reference="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235145" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
+          <node node_ref="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235135" />
+        </state>
+      </provider>
+    </entry>
     <entry file="mps://node://MCDataCode/MCDataCode.structure/CommandGamemode">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -943,10 +1241,10 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="319" />
-                <property name="caretXRelative" value="24" />
+                <property name="caretX" value="71" />
+                <property name="caretXRelative" value="56" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_name">
+                <cellInfo cellId="Constant_ueqr71_c0a">
                   <node node_reference="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235152" />
                 </cellInfo>
               </stackElement>
@@ -956,7 +1254,7 @@
             <foldable />
             <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -968,37 +1266,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://node://MCDataCode/MCDataCode.structure/GameMode">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
-          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack>
-              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
-                <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="351" />
-                <property name="caretXRelative" value="72" />
-                <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="property_externalValue">
-                  <node node_reference="r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235160" />
-                </cellInfo>
-              </stackElement>
-            </selectionStack>
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-          </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <errorMarkers />
-            <transactionalProperties />
-            <foldable />
-            <restoreAlways />
-            <enabledHints />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://node://MCDataCode/MCDataCode.structure/MainStructure">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.editor.tabs.TabbedEditor$TabbedEditorState">
@@ -1006,62 +1273,20 @@
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="175" />
-                <property name="caretXRelative" value="8" />
+                <property name="caretX" value="67" />
+                <property name="caretXRelative" value="0" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_fgt3_c0">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" />
+                <cellInfo cellId="ReadOnlyModelAccessor_mtiojs_a">
+                  <node node_reference="r:114e130d-2193-409d-b171-77b729d1662b(MCDataCode.editor)/2975948129906194039" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <errorMarkers />
             <transactionalProperties />
-            <foldable>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461152" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461146" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_msf9u8_b0">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461144" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459774" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459645" />
-                </cellIdElement>
-              </collapsedElement>
-            </foldable>
-            <restoreAlways>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461152" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_msf9u8_b0">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932461144" />
-                </cellIdElement>
-              </collapsedElement>
-              <collapsedElement isCollapsed="false">
-                <cellIdElement cellId="Collection_fao2ea_a">
-                  <node node_reference="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459645" />
-                </cellIdElement>
-              </collapsedElement>
-            </restoreAlways>
+            <foldable />
+            <restoreAlways />
           </memento>
-          <inspectorMemento currentlyEditedNode="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932464077" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
             <selectionStack />
             <errorMarkers />
             <transactionalProperties />
@@ -1069,7 +1294,38 @@
             <restoreAlways />
             <enabledHints />
           </inspectorMemento>
-          <node node_ref="r:fc394ff0-649a-47c0-9044-62257030ba2a(main@generator)/8625740208932459581" />
+          <node node_ref="r:114e130d-2193-409d-b171-77b729d1662b(MCDataCode.editor)/8625740208932459048" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://node://MCDataCode.sandbox/MCDataCode.sandbox/main">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editor.BaseNodeEditor$BaseEditorState">
+          <memento saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="119" />
+                <property name="caretXRelative" value="40" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_message">
+                  <node node_reference="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+          </memento>
+          <inspectorMemento currentlyEditedNode="r:49508491-69a6-4e4c-aa90-aa504cd98f7a(MCDataCode.sandbox)/2975948129906261835" saveSessionState="false" viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <errorMarkers />
+            <transactionalProperties />
+            <foldable />
+            <restoreAlways />
+            <enabledHints />
+          </inspectorMemento>
         </state>
       </provider>
     </entry>

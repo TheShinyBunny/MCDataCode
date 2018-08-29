@@ -13,6 +13,7 @@ public final class LanguageConceptSwitch {
   public static final int CommandGamemode = 1;
   public static final int CommandSay = 2;
   public static final int Function = 3;
+  public static final int MainStructure = 4;
 
   public LanguageConceptSwitch() {
     LanguageConceptIndexBuilder builder = new LanguageConceptIndexBuilder(0x5e2d0034c7544833L, 0xa8c206f62c92f462L);
@@ -20,6 +21,7 @@ public final class LanguageConceptSwitch {
     builder.put(0x77b4c904d635a790L, CommandGamemode);
     builder.put(0x77b4c904d635a78dL, CommandSay);
     builder.put(0x77b4c904d635a77fL, Function);
+    builder.put(0x77b4c904d6391209L, MainStructure);
     myIndex = builder.seal();
   }
 

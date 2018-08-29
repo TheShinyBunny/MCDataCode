@@ -13,6 +13,7 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
   private ConceptPresentation props_CommandGamemode;
   private ConceptPresentation props_CommandSay;
   private ConceptPresentation props_Function;
+  private ConceptPresentation props_MainStructure;
 
   @Override
   @Nullable
@@ -46,6 +47,13 @@ public class ConceptPresentationAspectImpl extends ConceptPresentationAspectBase
           props_Function = cpb.create();
         }
         return props_Function;
+      case LanguageConceptSwitch.MainStructure:
+        if (props_MainStructure == null) {
+          ConceptPresentationBuilder cpb = new ConceptPresentationBuilder();
+          cpb.rawPresentation("main");
+          props_MainStructure = cpb.create();
+        }
+        return props_MainStructure;
     }
     return null;
   }

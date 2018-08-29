@@ -16,6 +16,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   /*package*/ final ConceptDescriptor myConceptCommandGamemode = createDescriptorForCommandGamemode();
   /*package*/ final ConceptDescriptor myConceptCommandSay = createDescriptorForCommandSay();
   /*package*/ final ConceptDescriptor myConceptFunction = createDescriptorForFunction();
+  /*package*/ final ConceptDescriptor myConceptMainStructure = createDescriptorForMainStructure();
   private final LanguageConceptSwitch myIndexSwitch;
 
   public StructureAspectDescriptor() {
@@ -24,7 +25,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
 
   @Override
   public Collection<ConceptDescriptor> getDescriptors() {
-    return Arrays.asList(myConceptCommand, myConceptCommandGamemode, myConceptCommandSay, myConceptFunction);
+    return Arrays.asList(myConceptCommand, myConceptCommandGamemode, myConceptCommandSay, myConceptFunction, myConceptMainStructure);
   }
 
   @Override
@@ -39,6 +40,8 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
         return myConceptCommandSay;
       case LanguageConceptSwitch.Function:
         return myConceptFunction;
+      case LanguageConceptSwitch.MainStructure:
+        return myConceptMainStructure;
       default:
         return null;
     }
@@ -78,11 +81,20 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   }
   private static ConceptDescriptor createDescriptorForFunction() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MCDataCode", "Function", 0x5e2d0034c7544833L, 0xa8c206f62c92f462L, 0x77b4c904d635a77fL);
-    b.class_(false, false, true);
+    b.class_(false, false, false);
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235135");
     b.version(2);
     b.aggregate("cmds", 0x77b4c904d635a789L).target(0x5e2d0034c7544833L, 0xa8c206f62c92f462L, 0x77b4c904d635a782L).optional(false).ordered(true).multiple(true).origin("8625740208932235145").done();
+    return b.create();
+  }
+  private static ConceptDescriptor createDescriptorForMainStructure() {
+    ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MCDataCode", "MainStructure", 0x5e2d0034c7544833L, 0xa8c206f62c92f462L, 0x77b4c904d6391209L);
+    b.class_(false, false, true);
+    b.origin("r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932459017");
+    b.version(2);
+    b.aggregate("functions", 0x77b4c904d639120aL).target(0x5e2d0034c7544833L, 0xa8c206f62c92f462L, 0x77b4c904d635a77fL).optional(true).ordered(true).multiple(true).origin("8625740208932459018").done();
+    b.alias("main");
     return b.create();
   }
 }

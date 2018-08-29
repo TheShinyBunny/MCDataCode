@@ -17,6 +17,9 @@
       <concept id="8625740208932235152" name="MCDataCode.structure.CommandGamemode" flags="ng" index="2xwmUk">
         <property id="8625740208932235153" name="gamemode" index="2xwmUl" />
       </concept>
+      <concept id="8625740208932459017" name="MCDataCode.structure.MainStructure" flags="ng" index="2xztGd">
+        <child id="8625740208932459018" name="functions" index="2xztGe" />
+      </concept>
     </language>
     <language id="ceab5195-25ea-4f22-9b92-103b95ca8c0c" name="jetbrains.mps.lang.core">
       <concept id="1169194658468" name="jetbrains.mps.lang.core.structure.INamedConcept" flags="ng" index="TrEIO">
@@ -24,16 +27,30 @@
       </concept>
     </language>
   </registry>
-  <node concept="2xwmTV" id="7uOMgjmduTF">
-    <property role="TrG5h" value="init" />
-    <node concept="2xwmUk" id="7uOMgjmdwHG" role="2xwmUd">
-      <property role="2xwmUl" value="ADVENTURE" />
+  <node concept="2xztGd" id="2_cGgUh32aU">
+    <node concept="2xwmTV" id="2_cGgUh32aV" role="2xztGe">
+      <property role="TrG5h" value="main" />
+      <node concept="2xwmUk" id="2_cGgUh32aZ" role="2xwmUd">
+        <property role="2xwmUl" value="CREATIVE" />
+      </node>
+      <node concept="2xwmU9" id="2_cGgUh32b5" role="2xwmUd">
+        <property role="2xwmUa" value="hi" />
+      </node>
     </node>
-    <node concept="2xwmU9" id="7uOMgjmdwHL" role="2xwmUd">
-      <property role="2xwmUa" value="hello!" />
+    <node concept="2xwmTV" id="2_cGgUh3fWS" role="2xztGe">
+      <property role="TrG5h" value="func_1" />
+      <node concept="2xwmU9" id="2_cGgUh3fWZ" role="2xwmUd">
+        <property role="2xwmUa" value="cool" />
+      </node>
     </node>
-    <node concept="2xwmUk" id="7uOMgjmdIr6" role="2xwmUd">
-      <property role="2xwmUl" value="CREATIVE" />
+    <node concept="2xwmTV" id="2_cGgUh3fX2" role="2xztGe">
+      <property role="TrG5h" value="yaniv" />
+      <node concept="2xwmU9" id="2_cGgUh3fXb" role="2xwmUd">
+        <property role="2xwmUa" value="fancy" />
+      </node>
+      <node concept="2xwmUk" id="2_cGgUh3fXh" role="2xwmUd">
+        <property role="2xwmUl" value="ADVENTURE" />
+      </node>
     </node>
   </node>
 </model>
