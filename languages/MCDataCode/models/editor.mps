@@ -109,6 +109,9 @@
         <node concept="3mYdg7" id="7uOMgjmdqx3" role="3F10Kt">
           <property role="1413C4" value="body-brace" />
         </node>
+        <node concept="ljvvj" id="2_cGgUh3rFM" role="3F10Kt">
+          <property role="VOm3f" value="true" />
+        </node>
       </node>
     </node>
   </node>
@@ -117,16 +120,10 @@
     <node concept="3EZMnI" id="2_cGgUh2Zpu" role="2wV5jI">
       <node concept="3F0ifn" id="2_cGgUh2Zp_" role="3EZMnx">
         <property role="3F0ifm" value="pack:" />
-        <node concept="ljvvj" id="2_cGgUh3g0P" role="3F10Kt">
-          <property role="VOm3f" value="true" />
-        </node>
       </node>
       <node concept="3F2HdR" id="2_cGgUh2ZpR" role="3EZMnx">
         <ref role="1NtTu8" to="t4zr:7uOMgjmeh8a" resolve="functions" />
         <node concept="l2Vlx" id="2_cGgUh2ZpT" role="2czzBx" />
-        <node concept="lj46D" id="2_cGgUh3g0R" role="3F10Kt">
-          <property role="VOm3f" value="true" />
-        </node>
       </node>
       <node concept="l2Vlx" id="2_cGgUh2Zpx" role="2iSdaV" />
     </node>

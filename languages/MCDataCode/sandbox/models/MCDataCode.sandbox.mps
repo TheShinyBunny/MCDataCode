@@ -28,28 +28,37 @@
     </language>
   </registry>
   <node concept="2xztGd" id="2_cGgUh32aU">
-    <node concept="2xwmTV" id="2_cGgUh32aV" role="2xztGe">
-      <property role="TrG5h" value="main" />
-      <node concept="2xwmUk" id="2_cGgUh32aZ" role="2xwmUd">
+    <node concept="2xwmTV" id="2_cGgUh3rEL" role="2xztGe">
+      <property role="TrG5h" value="giveCreative" />
+      <node concept="2xwmUk" id="2_cGgUh3rEV" role="2xwmUd">
         <property role="2xwmUl" value="CREATIVE" />
       </node>
-      <node concept="2xwmU9" id="2_cGgUh32b5" role="2xwmUd">
-        <property role="2xwmUa" value="hi" />
+      <node concept="2xwmU9" id="2_cGgUh4b8g" role="2xwmUd">
+        <property role="2xwmUa" value="I am now in creative mode!" />
       </node>
     </node>
-    <node concept="2xwmTV" id="2_cGgUh3fWS" role="2xztGe">
-      <property role="TrG5h" value="func_1" />
-      <node concept="2xwmU9" id="2_cGgUh3fWZ" role="2xwmUd">
-        <property role="2xwmUa" value="cool" />
+    <node concept="2xwmTV" id="2_cGgUh3rEY" role="2xztGe">
+      <property role="TrG5h" value="survival_then_adventure" />
+      <node concept="2xwmUk" id="2_cGgUh3rF4" role="2xwmUd">
+        <property role="2xwmUl" value="SURVIVAL" />
       </node>
-    </node>
-    <node concept="2xwmTV" id="2_cGgUh3fX2" role="2xztGe">
-      <property role="TrG5h" value="yaniv" />
-      <node concept="2xwmU9" id="2_cGgUh3fXb" role="2xwmUd">
-        <property role="2xwmUa" value="fancy" />
+      <node concept="2xwmU9" id="2_cGgUh4b8o" role="2xwmUd">
+        <property role="2xwmUa" value="survivalmode" />
       </node>
-      <node concept="2xwmUk" id="2_cGgUh3fXh" role="2xwmUd">
+      <node concept="2xwmUk" id="2_cGgUh3rFa" role="2xwmUd">
         <property role="2xwmUl" value="ADVENTURE" />
+      </node>
+      <node concept="2xwmU9" id="2_cGgUh4b8y" role="2xwmUd">
+        <property role="2xwmUa" value="now adventuring" />
+      </node>
+    </node>
+    <node concept="2xwmTV" id="2_cGgUh3rFe" role="2xztGe">
+      <property role="TrG5h" value="spectate" />
+      <node concept="2xwmUk" id="2_cGgUh3rFn" role="2xwmUd">
+        <property role="2xwmUl" value="SPECTATOR" />
+      </node>
+      <node concept="2xwmU9" id="2_cGgUh4b8F" role="2xwmUd">
+        <property role="2xwmUa" value="ooo spoopy spectator" />
       </node>
     </node>
   </node>

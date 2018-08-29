@@ -54,7 +54,6 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
   private static ConceptDescriptor createDescriptorForCommand() {
     ConceptDescriptorBuilder2 b = new ConceptDescriptorBuilder2("MCDataCode", "Command", 0x5e2d0034c7544833L, 0xa8c206f62c92f462L, 0x77b4c904d635a782L);
     b.class_(false, true, false);
-    b.super_("jetbrains.mps.baseLanguage.structure.Statement", 0xf3061a5392264cc5L, 0xa443f952ceaf5816L, 0xf8cc56b215L);
     b.origin("r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235138");
     b.version(2);
     return b.create();
@@ -85,7 +84,7 @@ public class StructureAspectDescriptor extends BaseStructureAspectDescriptor {
     b.parent(0xceab519525ea4f22L, 0x9b92103b95ca8c0cL, 0x110396eaaa4L);
     b.origin("r:96fe2abe-f504-41a5-b0b8-2978403723e4(MCDataCode.structure)/8625740208932235135");
     b.version(2);
-    b.aggregate("cmds", 0x77b4c904d635a789L).target(0x5e2d0034c7544833L, 0xa8c206f62c92f462L, 0x77b4c904d635a782L).optional(false).ordered(true).multiple(true).origin("8625740208932235145").done();
+    b.aggregate("cmds", 0x77b4c904d635a789L).target(0x5e2d0034c7544833L, 0xa8c206f62c92f462L, 0x77b4c904d635a782L).optional(true).ordered(true).multiple(true).origin("8625740208932235145").done();
     return b.create();
   }
   private static ConceptDescriptor createDescriptorForMainStructure() {
